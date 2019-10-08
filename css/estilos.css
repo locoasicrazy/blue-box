@@ -1,0 +1,208 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#header{
+	margin-top: 30px;	
+	padding-left: 154px;
+
+
+}
+#menu-header{
+	margin-top: 10px;
+	padding-right: 0px;
+    padding-left: 30px;
+
+}
+#menu-subheader{
+	margin-top: 10px;
+	padding-right: 0px;
+    padding-left: 35px;
+
+}
+#buscador{
+	margin-top: 10px;
+	padding-left: 0px;
+	
+}
+#subheader{
+	margin-top: 40px;
+	background-color: #e2e7ed;
+	padding-bottom: 15px;
+	padding-left: 166px;
+}
+.row{
+	position: relative;
+	left: 22px;
+}
+
+#content1{
+	padding-left: 154px;
+}
+#content2{
+	padding-left: 154px;
+}
+#content3{
+	padding-left: 154px;
+}
+#content4{
+	padding-left: 154px;
+}
+#piedepagina{
+	padding-left: 154px;
+}
+/*------------------------------------------Parte Header---------------------------------------------------------*/
+
+#menu-header nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menu-header nav ul li a{
+	text-decoration: none; color: #626262; font-size: 15px;  padding: 0px 20px; border-right: 2px solid #626262;
+	font-family: 'PT Sans', sans-serif;
+}#menu-header .work-activo{
+	color:#00aeff;
+}
+#menu-header nav ul li a:hover{
+	color:#00aeff;
+}
+#menu-header nav ul li:last-child a{
+ border-right: none; border-right: 0px;
+}
+
+input{
+	width: 20%;
+}
+button{
+	background-color: #ffffff;
+	border:none;
+}
+.borderless{
+	border: none;
+}
+
+/*------------------------------------------Parte Gris-----------------------------------------------------*/
+#subtitulo h2{
+	margin-top: 30px;
+	text-decoration: none;  color: #626262; font-size: 44.88px; 	  
+	font-family: 'PT Sans', sans-serif;
+}
+
+#menu-subheader nav ul li{
+	margin-top: 40px;
+	list-style:none; display: inline-block; 
+}#menu-subheader nav ul li a{
+	text-decoration: none;  color: #626262; font-size: 15px;  padding: 0px 20px; 
+	font-family: 'PT Sans', sans-serif;
+}
+
+/*----------------------------------------Texto de los content------------------------------------------------*/
+
+h4{
+	color: #000000; font-size: 20px; 
+	font-family: 'PT Sans', sans-serif;
+
+}
+p{
+	color: #000000;
+	padding-right: 0px;
+	font-size: 15px; 
+	font-family: 'PT Sans', sans-serif;
+}
+h3{
+	
+	padding: 40px 0px 40px 22px;	
+	color: #ffffff; font-size: 30px; 
+	font-family: 'PT Sans', sans-serif;
+
+}
+/*----------------------------------------Parte Morada------------------------------------------------*/
+
+#content1{
+	background-color: #908ef3;
+}
+#content1 .row{
+	padding-bottom: 40px;
+}
+
+/*-------------------------------------------Parte Verde-------------------------------------------------------*/
+
+#content2{
+	background-color: #58d99c;
+}
+#content2 .row{
+	padding-bottom: 40px;
+}
+
+
+/*-------------------------------------------Parte Roja-------------------------------------------------------*/
+
+
+#content3{
+	background-color: #f4776d;
+}
+#content3 .row{
+	padding-bottom: 40px;
+}
+
+/*-------------------------------------------Parte amarilla-------------------------------------------------------*/
+
+
+#content4{
+	background-color: #edca52;
+}
+#content4 .row{
+	padding-bottom: 40px;
+}
+
+
+/*-------------------------------------------Parte footer-------------------------------------------------------*/
+
+#piedepagina{
+	background-color: #31333e;
+	padding-bottom: 50px;
+}
+#parte1pie{
+	margin-top: 30px;
+}
+#menupie nav ul{
+	margin-bottom: 10px;
+}
+#menupie nav ul li{
+	list-style:none;
+ 	display: inline-block;
+}
+#menupie nav ul li a{
+	text-decoration: none; color: #ffffff; font-size: 15px;  padding: 0px 10px; border-right: 2px solid #ffffff;
+	font-family: 'PT Sans', sans-serif;
+}
+#menupie nav ul li a:hover{
+	color:#00aeff;
+}
+#menupie nav ul li:last-child a{
+ border-right: none; border-right: 0px;	
+}
+#textopie{
+	padding-left: 10px;
+}
+#textopie h6{
+	color: #ffffff; font-size: 15px;
+	font-family: 'PT Sans', sans-serif;
+}
+#textopie p{
+	color: #ffffff; font-size: 12px;
+	font-family: 'PT Sans', sans-serif;
+}
+#parte2pie {
+	
+	padding: 20px 0px 0px 270px;
+	text-decoration: none;
+
+}
+#sociales nav ul li{
+	
+	font-size: 37px;
+	list-style:none;
+ 	display: inline-block;
+ 
+}
