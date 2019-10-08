@@ -17,7 +17,7 @@
 #menu-subheader{
 	margin-top: 10px;
 	padding-right: 0px;
-    padding-left: 35px;
+    padding-left: 40px;
 
 }
 #buscador{
@@ -31,10 +31,7 @@
 	padding-bottom: 15px;
 	padding-left: 166px;
 }
-.row{
-	position: relative;
-	left: 22px;
-}
+
 
 #content1{
 	padding-left: 154px;
@@ -111,7 +108,7 @@ p{
 }
 h3{
 	
-	padding: 40px 0px 40px 22px;	
+	padding: 40px 0px 40px 0px;	
 	color: #ffffff; font-size: 30px; 
 	font-family: 'PT Sans', sans-serif;
 
